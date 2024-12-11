@@ -1,4 +1,5 @@
 Simon: 
+	- Team organizer
 	- Got initial assets from unit 2 of unity's "Create with Code"
 	- Got assets for player model "Unity-Chan!"
 	- Set up animations for player
