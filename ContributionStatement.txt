@@ -1,0 +1,20 @@
+Simon: 
+	- Got initial assets from unit 2 of unity's "Create with Code"
+	- Got assets for player model "Unity-Chan!"
+	- Set up animations for player
+	- Programmed bullet manager
+	- Programmed player rotation controls
+	- Minor contribution in other script files
+
+Kyle:
+	- Created main menu
+	- Event managing related to buttons on main menu
+	- Implemented audio and audio controls	
+
+Cathal:
+	- Programmed player movement
+	- Programmed enemy behaviour
+	- Programmed collisions
+	- Programmed Game Area and barriers
+	- programmed spawn managers
+	- Minor polishing in other script files
