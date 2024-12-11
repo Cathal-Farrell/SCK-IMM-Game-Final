@@ -6,6 +6,9 @@ Simon:
 	- Programmed bullet manager
 	- Programmed player rotation controls
 	- Minor contribution in other script files
+	- Sourced assets for the background skybox
+	- Sourced assets for the powerups
+ 	- Sourced audio files for music and sound effects
 
 Kyle:
 	- Created main menu
@@ -16,6 +19,7 @@ Cathal:
 	- Programmed player movement
 	- Programmed enemy behaviour
 	- Programmed collisions
+	- Programmed powerups
 	- Programmed Game Area and barriers
 	- programmed spawn managers
 	- Minor polishing in other script files
