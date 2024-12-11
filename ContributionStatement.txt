@@ -12,8 +12,16 @@ Simon:
 
 Kyle:
 	- Created main menu
-	- Event managing related to buttons on main menu
-	- Implemented audio and audio controls	
+	- Programmed Game Manager
+	- Created canvas
+	- Event managing for all buttons on main menu
+	- Event managing for all UI elements
+	- Event managing for all buttons on Game Over Screen
+	- Implemented "Game Over"
+	- Implemented all audio and audio controls
+	- Implemented Scene Switching 
+	- Implemented Exiting the game
+	
 
 Cathal:
 	- Programmed player movement
